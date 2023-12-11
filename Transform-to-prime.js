@@ -48,3 +48,5 @@ function minimumNumber(numbers) {
     return true
   }
 }
+
+// or
